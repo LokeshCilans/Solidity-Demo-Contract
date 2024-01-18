@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "nums",
+						"type": "uint256[]"
+					}
+				],
+				"name": "sumIfEvenAndLessThan99",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "total",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity/I_Gas_Saving_Techniques.sol": "GasGolf"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity/I_Gas_Saving_Techniques.sol": {
+			"keccak256": "0x5f19d711b974d9ba68b4cafd07d5f8ec2c31071a90273fbc7ce909bf143a920a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ecb3c6ea1ab03e9caf8ba8f4a4f3658244dc663318404e42244cf6d9f249c694",
+				"dweb:/ipfs/QmakmgzeSqYsJrgJyoRnnGTNhcy2YS7Qp79zSuYwkEp8Qj"
+			]
+		}
+	},
+	"version": 1
+}

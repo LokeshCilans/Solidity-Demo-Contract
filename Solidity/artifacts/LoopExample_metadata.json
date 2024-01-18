@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loop",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity/8_For_and_While_Loop.sol": "LoopExample"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity/8_For_and_While_Loop.sol": {
+			"keccak256": "0xa64ec5696116f37c4054f88d1cea2fe134f69df6fea8b55afc6f7b40c5ee7963",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://dfdb92a29ee5a40884bc662ca27058244569eae86c99c22c2683b81fd38445be",
+				"dweb:/ipfs/QmYWVTHuEbVZ6E8S2rc4bxCWe4FJ5X6993Tdd8B5YUMz31"
+			]
+		}
+	},
+	"version": 1
+}
